@@ -1,0 +1,98 @@
+body {
+  background-color: #03738C;
+  background-image: url('../img/lotto.jpg') no-repeat;
+  color: #000;
+  margin: 0;
+  padding:0;
+  border: 0;
+  font-family: trattatello, fantasy;
+  font-size: 1em;
+}
+
+h1 {
+
+  background: #012340;
+  text-align: center;
+  text-transform: uppercase;
+  font-size: 4em;
+  margin-bottom: 30px;
+  padding: 1px 0;
+  text-shadow: 2px 2px #fff;
+
+}
+
+form {
+  width: 1000px;
+  margin: 0 auto;
+}
+
+#container {
+  background: #012340;
+  border: 2px solid #fff;
+  width: 1000px;
+  height: 200px;
+  margin: 8% auto;
+}
+
+p{
+  color: #fff;
+  font-size: 16px;
+  text-align: right;
+  text-transform: uppercase;
+  margin-right: 5%;
+}
+
+#superzahl {
+  background: #F20C8B;
+  margin-left: 6%;
+
+}
+
+.zahl {
+  
+  background: #4F0259;
+  color:#fff;
+  border-radius: 50%;
+  border: 2px solid #fff;
+  width: 100px;
+  height:100px;
+  padding-left: 5px;
+  margin-top: 1%;
+  margin-left: 2%;
+  display:inline-flex; 
+  justify-content:center;
+  align-items:center;
+  text-align: center;
+  font-size: 24px;
+  
+}
+
+#btn1 {
+  
+  background-color: #fff;
+  border-radius: 5%;
+  border: 6px solid #012340;
+  color: #012340;
+  width: 150px;
+  height: 70px;
+  margin-left: 0 auto;
+  margin-right: 0 auto;
+  margin-top: 10%;
+  padding: 20px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 18px;
+  font-family: luminari, fantasy;
+ 
+}
+
+
+
+
+
+
+
+
+
+
+
